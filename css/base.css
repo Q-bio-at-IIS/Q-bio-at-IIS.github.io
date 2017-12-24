@@ -247,6 +247,7 @@ hr.small {
   font-size: 22px;
 }
 .post-preview > a > .post-subtitle {
+  font-size: 18px;
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;
